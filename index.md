@@ -48,7 +48,7 @@ Ce que l'on retient / préconise :
 - Exploiter les spécificités des plateformes/formats : chaque plateforme dispose d'un certain nombre de fonctionnalités/produits. Par exemple, Instagram est bien adapté à la réalisation de sondage et à l'entretien d'une communication de fond via leur produit/fonctionnalité appelé(e) *stories*.
 
 ## Les plateformes 
-- [TikTok](./plateformes/isntagram.md)
+- [Instagram](./plateformes/instagram.md)
 - [TikTok](./plateformes/tiktok.md)
 - YouTube
 - Facebook
