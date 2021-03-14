@@ -11,7 +11,7 @@ La stratégie globale doit dicter la stratégie locale.  Il est donc important d
 ## 4 points/étapes stratégiques
 
 - **La stratégie / le plan** : il est nécessaire d'avoir une bonne stratégie, un plan afin d'optimiser nos efforts. Cette stratégie est préalable avant de commencer à poster.
-- **L'imagerie / Media ** : images, videos, infographies, etc.
+- **L'imagerie / Media** : images, videos, infographies, etc.
 - **Le copy / les mots** : chaque plateforme utilise un vocabulaire et des codes bien précis. Quel texte accompagnera notre post/image/vidéo
 - **La plateforme** :  Où ce contenu sera-t-il diffusé ?
 
