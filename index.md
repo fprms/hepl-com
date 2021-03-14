@@ -29,10 +29,14 @@ Le but est d'augmenter la visibilité de la formation et donc de toucher de nouv
 ### Considération 
 Lors de cette étape, le client potentiel est à la recherche d'informations complémentaires. Il compare les options qui s'offrent à lui. C'est à cet instant qu'il faut transformer le client potentiel en client actif. L'amener à consulter plus de contenus, à alimenter son intérêt pour notre formation.
 
+> [Exemple de contenus](./exemples/consideration.md)
+
 Les cibles commencent alors à s’intéresser aux produits et services de l’entreprise/la marque. À ce stade, elles évaluent les solutions proposées.
 
 ### Relation / hygiène 
 Communication de fond, l'objectif est de fidéliser les utilisateurs actifs. Aider les gens dans les problèmes qu'ils rencontrent, rendre les rapports plus humain entre votre marque et vos clients. Cette étape peut être réalisée via un site et/ou sur les réseaux sociaux.
+
+> [Exemple de contenus](./exemples/hygiene.md)
 
 ## Les besoins de la **HEPL**
 
@@ -42,3 +46,9 @@ Ce que l'on retient / préconise :
 - Du contenu de qualité : pour attirer de nouveaux étudiants à s'intéresser à notre formation/école, il faut du contenu de qualité qui impressionne. 
 - Un message ciblé : adapter le message selon les audiences. Nous n'allons pas communiquer de la même manière vers les parents ou vers les futurs étudiants. 
 - Exploiter les spécificités des plateformes/formats : chaque plateforme dispose d'un certain nombre de fonctionnalités/produits. Par exemple, Instagram est bien adapté à la réalisation de sondage et à l'entretien d'une communication de fond via leur produit/fonctionnalité appelé(e) *stories*.
+
+## Les plateformes 
+- [TikTok](./plateformes/isntagram.md)
+- [TikTok](./plateformes/tiktok.md)
+- YouTube
+- Facebook
